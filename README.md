@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Pluck Huang 👋</h1>
+  <h1>Hi there, I'm PluckH 👋</h1>
   <p>
     <strong>A Developer exploring the Cosmos of Code & AI.</strong><br>
     专注于 <b>AIOps</b>、<b>Cloud Native</b> 与 <b>Web 全栈</b> 技术。
@@ -117,6 +117,12 @@
 ### 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pluckhuang&show_icons=true&theme=midnight-owl&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pluckhuang&show_icons=true&theme=midnight-owl&hide_border=true" height="150" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pluckhuang&layout=compact&theme=midnight-owl&hide_border=true" height="150" alt="languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=pluckhuang&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="profile views" />
 </div>
