@@ -114,15 +114,5 @@
 
 <br />
 
-### 📈 GitHub Activity
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pluckhuang&show_icons=true&theme=midnight-owl&hide_border=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pluckhuang&layout=compact&theme=midnight-owl&hide_border=true" height="150" alt="languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pluckhuang&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="profile views" />
-</div>
+  <img src="https://komarev.com/ghpvc/?username=pluckhuang&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="
