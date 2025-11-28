@@ -1,70 +1,67 @@
 ### 你好，我是 PluckH 👋
 
-**云成本战略家 (FinOps) | 企业级解决方案架构师 | AI 操盘手**
+**资深后端工程师 (10年+) | 云架构与 FinOps 探索者 | AI 辅助开发践行者**
 
-在经历了 **10年+** 的一线后端研发后，我已经不仅仅满足于“写代码”。
-现在的我，致力于帮助企业**将技术债务转化为资产**，**将云账单转化为收益**。
+我拥有 **10年以上** 的一线后端研发与系统设计经验。
+目前，我正在通过 **基础设施即代码 (Terraform)** 和 **AI 工具链**，将职业重心从“代码实现”向 **“云架构设计”** 与 **“云成本优化 (FinOps)”** 拓展。
 
-我的核心价值在于：利用 **架构模式**、**Terraform** 和 **AI 智能体**，在 **AWS** 和 **腾讯云** 上构建运行成本更低、维护更轻松的系统。
-
----
-
-### 🎯 战略重心与服务 (Strategic Focus)
-
-我的工作聚焦于高杠杆、直接影响商业回报 (ROI) 的领域：
-
-1.  **💰 Cloud FinOps 云成本优化 (首要重心)**
-    * **使命:** “止血”。
-    * **做什么:** 审计云基础设施，识别浪费（僵尸资源、过度配置），并通过架构重构实现极致的成本效率。
-    * **价值:** 让云账单变得透明、可控、可预测。
-
-2.  **🏗️ 解决方案架构 (售前与顶层设计)**
-    * **使命:** “蓝图”。
-    * **做什么:** 在写第一行代码之前，先设计好高可用、Serverless 和多云 (AWS/Tencent) 的架构蓝图。
-    * **价值:** 通过稳健的顶层设计，规避迁移风险和未来的技术债务。
-
-3.  **🤖 AI 原生编排 ("AI 包工头"模式)**
-    * **使命:** “自动化”。
-    * **做什么:** 像指挥团队一样编排 AI Agent (利用 Cursor/LLMs) 来处理具体的实现细节和重复性运维工作。
-    * **价值:** 将 AI 视为劳动力，实现研发与运维效率的指数级提升。
+我的目标是：利用深厚的工程背景，在 **AWS** 和 **腾讯云** 上构建更高效、更经济的系统。
 
 ---
 
-### 🛠️ "高杠杆" 工具箱
+### 🎯 职业转型与聚焦 (Transition Focus)
 
-我不堆砌技术，我只使用能带来 **治理能力** 和 **效率** 的工具。
+基于坚实的技术背景，我目前致力于在以下领域通过项目实践来提升能力：
 
-| 领域 | 战略栈 |
+1.  **💰 Cloud FinOps (云成本优化)**
+    * **当前探索:** 学习如何通过技术手段减少云资源浪费。
+    * **实践方向:** 编写自动化脚本来审计 AWS/腾讯云 的闲置资源（如僵尸磁盘、未绑定 IP），致力于让云账单更加透明。
+
+2.  **🏗️ 架构模式研究**
+    * **当前探索:** 从“功能开发”转向“顶层设计”。
+    * **实践方向:** 沉淀 Serverless 和微服务在多云环境下的最佳实践，关注高可用与可维护性。
+
+3.  **🤖 AI 工作流工程化**
+    * **当前探索:** 利用 AI 提升研发效能。
+    * **实践方向:** 熟练运用 **Cursor** 和 **LLM Agents** 处理重复性编码与日志分析工作，探索“人机协同”的新开发模式。
+
+---
+
+### 🛠️ 技术栈 (Tech Stack)
+
+我正在重组我的工具箱，以适应从“开发者”到“架构设计”的转变：
+
+| 领域 | 核心工具 |
 | :--- | :--- |
-| **云治理 (Governance)** | ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Tencent Cloud](https://img.shields.io/badge/-Tencent_Cloud-0052D9?style=flat&logo=tencent-qq&logoColor=white) ![Cost Management](https://img.shields.io/badge/-FinOps_Tools-1287A8?style=flat) |
-| **AI 劳动力 (Workforce)** | ![Cursor](https://img.shields.io/badge/-Cursor_IDE-000000?style=flat&logo=cursor&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat&logo=google-gemini&logoColor=white) |
-| **落地实现** | ![Go](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) *(主要用于构建自动化工具脚本)* |
+| **云与治理** | ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Tencent Cloud](https://img.shields.io/badge/-Tencent_Cloud-0052D9?style=flat&logo=tencent-qq&logoColor=white) |
+| **AI 辅助** | ![Cursor](https://img.shields.io/badge/-Cursor_IDE-000000?style=flat&logo=cursor&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) |
+| **工程基石** | ![Go](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) *(10年+ 生产环境经验)* |
 
 ---
 
 ### ⚡ AI 原生工作流声明
 
-> **我的工程哲学： "架构师 > 程序员"**
-> 我将自己定位为 **技术产品操盘手**。我不再手动编写每一行代码，而是专注于定义 **系统架构** 和 **商业逻辑**，然后指挥 **AI Agents (Cursor/LLMs)** 去执行具体的代码实现。
-> 这种模式让我能全情投入于 **方案质量**、**成本控制** 和 **交付速度**。
+> **关于我的开发模式：**
+> 我不追求手动编写每一行代码。相反，我利用 **AI 工具 (Cursor/LLMs)** 来加速实现细节。
+> 作为一名资深工程师，我的价值在于利用 **10年的经验** 去定义系统设计、审核 AI 生成的代码质量，并确保最终交付的稳定性。
 
 ---
 
-### 🚀 概念验证项目 (POC)
+### 🚀 学习与实验项目 (Learning in Public)
 
-以下项目展示了“优化”与“自动化”的思维模式：
+我相信“在实践中学习”，以下是我正在建设的实验性项目：
 
-#### 📉 [finops-audit-patterns](https://github.com/pluckhuang) *(开发中)*
-> **领域:** 云成本优化
-> 一套 Terraform 策略库与 Python 扫描脚本，专门用于检测 AWS/腾讯云账号下的闲置资源（如未挂载硬盘、闲置 EIP）并生成省钱报告。
+#### 📉 [finops-audit-patterns](https://github.com/pluckhuang) *(学习与构建中)*
+> **领域:** 云成本工具
+> 一个正在孵化的工具集。我正在尝试编写 Terraform 策略和 Python 脚本，用于扫描云账号下的基础闲置资源。这是我进入 FinOps 领域的练手项目。
 
 #### 🔍 [ai_ops_assistant_agent](https://github.com/pluckhuang/ai_ops_assistant_agent)
-> **领域:** 自动化运维
-> 一个基于 RAG 的智能体，充当 Level-1 SRE 角色。它能自主分析日志和文档来诊断故障，旨在大幅减少人工干预。
+> **领域:** 自动化运维 Demo
+> 探索 RAG 技术在运维中的应用。这是一个尝试让 AI 自动分析日志并给出建议的实验性 Agent。
 
 ---
 
 ### 📫 联系我
 
-* **我可以协助:** 云成本审计 (FinOps Audit), 架构设计咨询, 迁移策略制定.
 * **坐标:** 中国
+* **交流:** 欢迎探讨云架构转型、后端工程化、以及 AI 辅助编程实践。
