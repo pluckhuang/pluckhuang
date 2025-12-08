@@ -45,23 +45,4 @@
 > 我不追求手动编写每一行代码。相反，我利用 **AI 工具 (Cursor/LLMs)** 来加速实现细节。
 > 作为一名资深工程师，我的价值在于利用 **10年的经验** 去定义系统设计、审核 AI 生成的代码质量，并确保最终交付的稳定性。
 
----
 
-### 🚀 学习与实验项目 (Learning in Public)
-
-我相信“在实践中学习”，以下是我正在建设的实验性项目：
-
-#### 📉 [finops-audit-patterns](https://github.com/pluckhuang) *(学习与构建中)*
-> **领域:** 云成本工具
-> 一个正在孵化的工具集。我正在尝试编写 Terraform 策略和 Python 脚本，用于扫描云账号下的基础闲置资源。这是我进入 FinOps 领域的练手项目。
-
-#### 🔍 [ai_ops_assistant_agent](https://github.com/pluckhuang/ai_ops_assistant_agent)
-> **领域:** 自动化运维 Demo
-> 探索 RAG 技术在运维中的应用。这是一个尝试让 AI 自动分析日志并给出建议的实验性 Agent。
-
----
-
-### 📫 联系我
-
-* **坐标:** 中国
-* **交流:** 欢迎探讨云架构转型、后端工程化、以及 AI 辅助编程实践。
