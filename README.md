@@ -15,7 +15,9 @@
 
 1.  **💰 解决方案架构设计与安全保障 **
     * **当前探索:** 学习云上解决方案设计与安全保障。
-    * **实践方向:** 通过考取云认证来开阔视野。
+    * **专业认证:** 已构建系统的云知识体系，并取得以下认证：
+      * AWS Certified Solutions Architect – Associate (SAA‑C03) ✅
+      * AWS Certified Cloud Practitioner (CLF‑C02) ✅
 
 2.  **🏗️ 架构模式研究**
     * **当前探索:** 从“功能开发”转向“顶层设计”。
